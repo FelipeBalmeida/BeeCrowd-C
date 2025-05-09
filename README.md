@@ -16,7 +16,7 @@ Aprender a lidar com `scanf`, `printf`, variáveis e tipos básicos.
 - [x] 1006 - Média 2  
 - [x] 1007 - Diferença  
 - [x] 1008 - Salário  
-- [ ] 1009 - Salário com Bônus  
+- [x] 1009 - Salário com Bônus  
 - [ ] 1010 - Cálculo Simples  
 
 ---
