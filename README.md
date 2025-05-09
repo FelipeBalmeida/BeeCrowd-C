@@ -25,7 +25,7 @@ Aprender a lidar com `scanf`, `printf`, variáveis e tipos básicos.
 
 Introdução à lógica condicional e tomada de decisão.
 
-- [ ] 1035 - Teste de Seleção 1  
+- [x] 1035 - Teste de Seleção 1  
 - [ ] 1040 - Média 3  
 - [ ] 1041 - Coordenadas de um Ponto  
 - [ ] 1042 - Sort Simples  
