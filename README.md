@@ -21,7 +21,7 @@ Aprender a lidar com `scanf`, `printf`, variáveis e tipos básicos.
 * [x] 1008 - Salário
 * [x] 1009 - Salário com Bônus
 * [x] 1010 - Cálculo Simples
-* [ ] 1011 - Esfera
+* [x] 1011 - Esfera
 * [ ] 1012 - Área
 * [ ] 1013 - O Maior
 * [ ] 1014 - Consumo
