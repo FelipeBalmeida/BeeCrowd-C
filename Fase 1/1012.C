@@ -7,7 +7,7 @@ int main(){
 
 	TRIANGULO = (A * C)/2;
 	CIRCULO = 3.14159 * ( C * C);
-	TRAPEZIO = ((A + B) * C)\2;
+	TRAPEZIO = ((A + B) * C)/2;
 	QUADRADO = B * B;
 	RETANGULO = A * B;
 
