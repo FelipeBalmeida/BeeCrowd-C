@@ -23,7 +23,7 @@ Aprender a lidar com `scanf`, `printf`, variáveis e tipos básicos.
 * [x] 1010 - Cálculo Simples
 * [x] 1011 - Esfera
 * [x] 1012 - Área
-* [ ] 1013 - O Maior
+* [x] 1013 - O Maior
 * [ ] 1014 - Consumo
 * [ ] 1015 - Distância Entre Dois Pontos
 * [ ] 1016 - Distância
