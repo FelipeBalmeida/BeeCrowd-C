@@ -26,8 +26,8 @@ Aprender a lidar com `scanf`, `printf`, variáveis e tipos básicos.
 - ✅ 1013 - O Maior  
 - ✅ 1014 - Consumo  
 - ✅ 1015 - Distância Entre Dois Pontos
-* [ ] 1016 - Distância
-* [ ] 1017 - Gasto de Combustível
+- ✅ 1016 - Distância
+- ✅ 1017 - Gasto de Combustível
 * [ ] 1018 - Cédulas
 * [ ] 1019 - Conversão de Tempo
 * [ ] 1020 - Idade em Dias
