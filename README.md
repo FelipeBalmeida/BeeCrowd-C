@@ -25,7 +25,7 @@ Aprender a lidar com `scanf`, `printf`, variáveis e tipos básicos.
 - ✅ 1012 - Área  
 - ✅ 1013 - O Maior  
 - ✅ 1014 - Consumo  
-* [ ] 1015 - Distância Entre Dois Pontos
+- ✅ 1015 - Distância Entre Dois Pontos
 * [ ] 1016 - Distância
 * [ ] 1017 - Gasto de Combustível
 * [ ] 1018 - Cédulas
