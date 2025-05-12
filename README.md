@@ -38,11 +38,11 @@ Aprender a lidar com `scanf`, `printf`, variáveis e tipos básicos.
 
 Introdução à lógica condicional e tomada de decisão.
 
-* [x] 1035 - Teste de Seleção 1
+- ✅ 1035 - Teste de Seleção 1
 * [ ] 1036 - Fórmula de Bhaskara
 * [ ] 1037 - Intervalo
 * [ ] 1038 - Lanche *(uso de switch/case)*
-* [x] 1040 - Média 3
+- ✅ 1040 - Média 3
 * [ ] 1041 - Coordenadas de um Ponto
 * [ ] 1042 - Sort Simples
 * [ ] 1043 - Triângulo
