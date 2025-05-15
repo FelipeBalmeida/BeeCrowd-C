@@ -31,8 +31,6 @@ Aprender a lidar com `scanf`, `printf`, variáveis e tipos básicos.
 - ✅ 1018 - Cédulas
 - ✅ 1019 - Conversão de Tempo
 - ✅ 1020 - Idade em Dias
-* [ ] 1024 - Cifra de César 
-* [ ] 1040 - Média 3
 
 ---
 
@@ -112,6 +110,14 @@ Manipulação de listas, vetores, strings e índices.
 * [ ] 1185 - Abaixo da Diagonal Secundária
 * [ ] 1186 - Acima da Diagonal Secundária
 
+## EXTRA - 
+strcmp (comparação de strings)
+
+strcpy (cópia de strings)
+
+strcat (concatenação)
+
+strlen (tamanho da string)
 ---
 
 ## 🟨 Fase 6 - Exercícios com Ponteiros.
