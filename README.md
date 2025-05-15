@@ -31,10 +31,22 @@ Aprender a lidar com `scanf`, `printf`, variáveis e tipos básicos.
 - ✅ 1018 - Cédulas
 - ✅ 1019 - Conversão de Tempo
 - ✅ 1020 - Idade em Dias
+* [ ] 1024 - Cifra de César 
+* [ ] 1040 - Média 3
 
 ---
 
-## ✅ Fase 2 – Condicionais (`if`, `else`, `switch/case`)
+## 🟨 Fase 3 – Exercícios com (`struct `)
+
+* [ ] 2001 - Cadastro de Alunos
+* [ ] 2002 - Cadastro de Produtos
+* [ ] 2003 - Agenda Telefônica
+* [ ] 2004 - Dados de Funcionário
+
+---
+
+ 2005 - Ponto no Plano Cartesiano
+## 🟨 Fase 3 – Condicionais (`if`, `else`, `switch/case`)
 
 Introdução à lógica condicional e tomada de decisão.
 
@@ -58,7 +70,7 @@ Introdução à lógica condicional e tomada de decisão.
 
 ---
 
-## ✅ Fase 3 – Estruturas de Repetição (`for`, `while`, `do while`)
+## 🟨 Fase 4 – Estruturas de Repetição (`for`, `while`, `do while`)
 
 Aprender a repetir ações com laços, contadores e repetições.
 
@@ -84,7 +96,7 @@ Aprender a repetir ações com laços, contadores e repetições.
 
 ---
 
-## ✅ Fase 4 – Arrays, Strings e Laços Mais Complexos
+## 🟨 Fase 5 – Arrays, Strings e Laços Mais Complexos
 
 Manipulação de listas, vetores, strings e índices.
 
@@ -102,7 +114,21 @@ Manipulação de listas, vetores, strings e índices.
 
 ---
 
-## 🟨 Fase 5 – Fila, Pilha e Árvores – Nível Iniciante a Avançado
+## 🟨 Fase 6 - Exercícios com Ponteiros.
+
+* [ ] 3001 - Manipulação Básica de Ponteiros
+* [ ] 3002 - Troca de Valores Usando Ponteiros
+* [ ] 3003 - Ponteiro para Vetor
+* [ ] 3004 - Passagem de Parâmetros por Ponteiro
+* [ ] 3005 - Alocação Dinâmica de Memória
+* [ ] 3006 - Ponteiro para Função
+* [ ] 3007 - Strings com Ponteiros
+* [ ] 3008 - Ponteiros e Matrizes
+* [ ] 3009 - Lista Ligada Simples
+
+---
+
+## 🟨 Fase 7 – Fila, Pilha e Árvores – Nível Iniciante a Avançado
 
 ### Estruturas com Simulação (Fácil)
 
