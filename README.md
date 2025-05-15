@@ -29,8 +29,8 @@ Aprender a lidar com `scanf`, `printf`, variáveis e tipos básicos.
 - ✅ 1016 - Distância
 - ✅ 1017 - Gasto de Combustível
 - ✅ 1018 - Cédulas
-* [ ] 1019 - Conversão de Tempo
-* [ ] 1020 - Idade em Dias
+- ✅ 1019 - Conversão de Tempo
+- ✅ 1020 - Idade em Dias
 
 ---
 
