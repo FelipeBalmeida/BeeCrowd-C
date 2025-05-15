@@ -110,7 +110,7 @@ Manipulação de listas, vetores, strings e índices.
 * [ ] 1185 - Abaixo da Diagonal Secundária
 * [ ] 1186 - Acima da Diagonal Secundária
 
-## EXTRA - 
+## 🟨 EXTRA - Exercícios de manipulação de string.
 strcmp (comparação de strings)
 
 strcpy (cópia de strings)
@@ -118,6 +118,7 @@ strcpy (cópia de strings)
 strcat (concatenação)
 
 strlen (tamanho da string)
+
 ---
 
 ## 🟨 Fase 6 - Exercícios com Ponteiros.
