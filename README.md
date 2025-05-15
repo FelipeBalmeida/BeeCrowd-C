@@ -40,10 +40,10 @@ Aprender a lidar com `scanf`, `printf`, variáveis e tipos básicos.
 * [ ] 2002 - Cadastro de Produtos
 * [ ] 2003 - Agenda Telefônica
 * [ ] 2004 - Dados de Funcionário
+* [ ] 2005 - Ponto no Plano Cartesiano
 
 ---
 
- 2005 - Ponto no Plano Cartesiano
 ## 🟨 Fase 3 – Condicionais (`if`, `else`, `switch/case`)
 
 Introdução à lógica condicional e tomada de decisão.
