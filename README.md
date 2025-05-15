@@ -36,7 +36,7 @@ Aprender a lidar com `scanf`, `printf`, variáveis e tipos básicos.
 
 ---
 
-## 🟨 Fase 3 – Exercícios com (`struct `)
+## 🟨 Fase 2 – Exercícios com (`struct `)
 
 * [ ] 2001 - Cadastro de Alunos
 * [ ] 2002 - Cadastro de Produtos
