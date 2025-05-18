@@ -35,12 +35,16 @@ Aprender a lidar com `scanf`, `printf`, variáveis e tipos básicos.
 ---
 
 ## 🟨 Fase 2 – Exercícios com (`struct `)
-
-* [ ] 1170 – Crescimento Populacional
-* [ ] 1272 – Corrida de Tartarugas
-* [ ] 1546 – Feedback
-* [ ] 1866 – Conta
-* [ ] 2137 – Concurso de Contos
+  
+- ✅ 1050 – DDD  
+* [ ] 1060 – Números Positivos  
+* [ ] 1118 – Várias Notas com Validação  
+* [ ] 1140 – Flores Florescem da França  
+* [ ] 1170 – Crescimento Populacional  
+* [ ] 1214 – Acima da Média  
+* [ ] 2137 – Concurso de Contos  
+* [ ] 1021 – Cédulas e Moedas  
+* [ ] 1272 – Corrida de Tartarugas  
 
 ---
 
