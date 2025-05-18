@@ -36,11 +36,11 @@ Aprender a lidar com `scanf`, `printf`, variáveis e tipos básicos.
 
 ## 🟨 Fase 2 – Exercícios com (`struct `)
 
-* [ ] 2001 - Cadastro de Alunos
-* [ ] 2002 - Cadastro de Produtos
-* [ ] 2003 - Agenda Telefônica
-* [ ] 2004 - Dados de Funcionário
-* [ ] 2005 - Ponto no Plano Cartesiano
+* [ ] 1170 – Crescimento Populacional
+* [ ] 1272 – Corrida de Tartarugas
+* [ ] 1546 – Feedback
+* [ ] 1866 – Conta
+* [ ] 2137 – Concurso de Contos
 
 ---
 
