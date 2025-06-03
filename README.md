@@ -50,7 +50,7 @@ Introdução à lógica condicional e tomada de decisão.
 - ✅ 1038 - Lanche *(uso de switch/case)*
 - ✅ 1040 - Média 3
 - ✅ 1041 - Coordenadas de um Ponto
- 1042 - Sort Simples
+* [ ] 1042 - Sort Simples
 * [ ] 1043 - Triângulo
 * [ ] 1044 - Múltiplos
 * [ ] 1045 - Tipos de Triângulos
