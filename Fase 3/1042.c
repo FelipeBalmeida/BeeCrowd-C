@@ -27,7 +27,7 @@ int main(){
 		ValorMenor = valor3;
 	}
 
-	printf("%d\n%\nd%d\n\n%d\n%d\n%d\n", ValorMenor, ValorDoMeio, ValorMaior, valor1, valor2, valor3);
+	printf("%d\n%d\n%d\n\n%d\n%d\n%d\n", ValorMenor, ValorDoMeio, ValorMaior, valor1, valor2, valor3);
 
 
 	return 0;
